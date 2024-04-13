@@ -7,3 +7,5 @@ let famousQuote: string = "Nothing is more simple than greatness; indeed, to be 
 console.log(`${author} once said, "${famousQuote}"`);
 
 
+
+

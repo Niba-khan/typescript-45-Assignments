@@ -6,6 +6,7 @@ let personName: String= "Nibakhan";
 
 console.log(personName.toLowerCase());
 
+
 // Upper Case
 
 console.log(personName.toUpperCase());
